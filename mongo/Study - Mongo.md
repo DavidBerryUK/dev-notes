@@ -138,6 +138,8 @@ db.posts.cars.find({colour,"red"}).count()
 
 
 
+# References - MongoDB WebSite
+https://developer.mongodb.com/article/everything-you-know-is-wrong
 
 
 # References - YouTube
