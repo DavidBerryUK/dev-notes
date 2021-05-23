@@ -125,7 +125,7 @@ http://localhost:8080/weatherforcast
 ## Step 5 - Amend Image to run as **HTTPS**
 
 ### Create Certificate for Docker Image
-* Container required a seperate certificate
+* Container required a separate certificate
 * make the certificate name the same as the assembly name, including capitalization
 ```bash
 dotnet dev-certs https -ep $env:USERPROFILE\.aspnet\https\WeatherAPI.pdf -p pa55w0rd!
